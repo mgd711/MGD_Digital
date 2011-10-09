@@ -1,0 +1,16 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' bodybgimg07.css Style Sheet
+Created: 2, November, 2010
+Last Modified: 17, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010-2011 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body, html {
+	background-image: url(../../images/bodybg/body_bg07.jpg);
+}

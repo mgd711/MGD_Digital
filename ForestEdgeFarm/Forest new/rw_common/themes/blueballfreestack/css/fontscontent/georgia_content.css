@@ -1,0 +1,33 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' georgia_content.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 26, October, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+blockquote, .standout {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#pageheader #slogan, #footer {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h4, h5 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer #sidebarcontent h5 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}

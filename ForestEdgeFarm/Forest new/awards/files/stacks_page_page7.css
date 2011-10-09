@@ -1,0 +1,374 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' fsheader.css Style Sheet
+Created: 20, January, 2011
+Last Modified: 02, June, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010-2011 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+#stacks_in_94_page7 {
+	-moz-border-radius-topright: 0px;
+	-webkit-border-top-right-radius: 0px;
+	border-top-right-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	-webkit-border-top-left-radius: 0px;
+	border-top-left-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	-webkit-border-bottom-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+#pageheader {
+	display: block;
+	width: 960;
+	height: 200;
+	overflow: hidden;
+}
+#stacks_in_96_page7 .stacks_left {
+	float:left;
+	width:27%;
+}
+
+#stacks_in_96_page7 .stacks_right {
+	float:right;
+	width:71%;
+}/*-- Cycler Image Stack v2.5.2 by Joe Workman --*/
+ 
+ 
+#custom_nav_stacks_in_101_page7{display:none;}
+
+#stacks_in_101_page7 .cycler_reel{position:relative;}
+#stacks_in_101_page7 .cylcer_slide{width:100% !important;}
+#stacks_in_101_page7 .cycler_nav {
+    display: none;
+    text-align: center;
+    line-height: 40px;
+}
+#stacks_in_101_page7 .cycler_nav a {
+    text-decoration: none !important;
+    padding: 5px;
+    font-weight: bold;
+}
+#stacks_in_101_page7 .cycler_nav a.activeSlide {
+    background: #000000;
+    border: 1px solid #000000;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+#cycler_nav_bottom_stacks_in_101_page7 {
+    display: none !important;
+}
+#stacks_in_101_page7 .nav_bullet {
+    padding:0;
+    line-height:9px;
+    height:9px;
+}
+#stacks_in_101_page7 .nav_bullet a {
+    padding: 0;
+    border-width: 0;
+    text-indent: 9999px;
+    display: inline-block;
+    margin: 0 4px;
+    width: 9px;
+    height: 9px;
+    background-color:transparent;
+    background-repeat:no-repeat;
+    background: url(../files/cycler-images/nav_dot_normal.png) no-repeat;
+}
+#stacks_in_101_page7 .nav_bullet a:hover {
+    background: url(../files/cycler-images/nav_dot_hover.png) no-repeat;
+}
+#stacks_in_101_page7 .nav_bullet a.activeSlide {
+    background: url(../files/cycler-images/nav_dot_active.png) no-repeat;
+    border-width: 0;
+    background-color:transparent;
+    background-repeat:no-repeat;
+}
+#stacks_in_101_page7 .cycler_pager {
+	cursor:pointer;
+	z-index:9999;
+	display:none;
+	width:30px;
+	height:30px;
+	position:absolute;
+	top:40%;
+}
+#stacks_in_101_page7 .next_pager {
+	right:30px;
+    background: url(../files/cycler-images/next.png) no-repeat;
+}
+#stacks_in_101_page7 .prev_pager {
+	left:30px;
+    background: url(../files/cycler-images/prev.png) no-repeat;
+}
+
+/*-- End Cycler Image Stack --*//*
+-------------------------------------------
+File: 'Blueball FreeStacks' fsnavmenu1.css Style Sheet
+Created: 27, October, 2010
+Last Modified: 5,  July, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010-2011 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+#nav .stacks_in {
+	overflow: visible;
+}
+
+#nav .stacks_top {
+	overflow: visible;
+}
+
+#nav .stacks_out {
+	overflow: visible;
+}
+
+#nav {	
+}
+
+#nav ul {
+	bottom: 0;
+	left: 0;
+	background: #808000;
+	height: 40px;
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	width: 100%;
+}
+
+*:first-child+html #nav ul {
+	height: 40px !important;
+}
+
+#nav ul li {
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	height: 40px;
+	border-right: 0px solid #FFFFFF;
+}
+
+#nav ul li a, #nav ul li a:visited {
+	background: #808000;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: block;
+	font-size: 12px;
+	font-weight: 600;
+	padding: 0 14px 0 14px;
+	text-decoration: none;
+}
+
+#nav ul li a:hover {
+	background: #004080;
+	color: #FFFFFF;
+}
+
+#nav ul li #current, #nav ul li .current-ancestor {
+	background: #FFFFFF;
+	color: #CD180D;
+}
+
+#nav ul li a:hover > ul {
+	position: relative;
+	display: block;
+}
+
+/* Sub Menu Levels */
+
+#nav ul ul {
+	display: none;
+	height: 26px;
+	left: 0;
+	line-height: 26px;
+	margin: 0;
+	position: absolute;
+	top: 40px;
+	width: 200px;
+}
+
+#nav ul ul li {
+	padding: 0;
+	height: 26px;
+	width: 200px;
+}
+
+#nav ul ul li a, #nav ul ul li a:visited {
+	background: #7B8B99;
+	color: #FFFFFF;
+	border-top: 1px solid #FFFFFF;
+	font-size: 12px;
+	font-weight: normal;
+	height: 26px;
+	padding: 0px 14px 0px 14px;
+	margin: 0;
+	text-shadow: none;
+	width: -28px;
+}
+
+*:first-child+html #nav ul ul li a, #nav ul ul li a:visited {
+	padding: 0px 14px 0px 14px;
+	line-height: 26px !important;
+	width: -28px !important;
+}
+
+#nav ul ul li a:hover {
+	background: #EDEDED;
+	color: #777777;
+	width: -28px;
+}
+
+#nav ul ul li #current, #nav ul ul li .current-ancestor {
+	background: #FFFFFF;
+	color: #CD180D;
+	width: -28px;
+}
+
+#nav ul ul li:last-child > a {
+	border-bottom: 1px solid #FFFFFF;
+}
+
+#nav ul ul ul {
+	position: absolute;
+	top: 0;
+	left: 200px;
+}
+
+*:first-child+html #nav ul ul ul {
+	top: 0;
+	left: 200px !important;
+}
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' fsslogan.css Style Sheet
+Created: 24, January, 2011
+Last Modified: 24, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010-2011 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+#stacks_in_121_page7 {
+	-moz-border-radius-topright: 0px;
+	-webkit-border-top-right-radius: 0px;
+	border-top-right-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	-webkit-border-top-left-radius: 0px;
+	border-top-left-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	-webkit-border-bottom-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+#slogan {
+	font-size: 20px;
+	line-height: 20px;
+	color: #191919;
+}
+#stacks_in_121_page7 {
+	margin: 1px 1px 1px 1px;
+	padding: 16px 16px 16px 16px;
+}
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' fscontent.css Style Sheet
+Created: 17, January, 2011
+Last Modified: 27, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010-2011 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+#stacks_in_122_page7 {
+	-moz-border-radius-topright: 0px;
+	-webkit-border-top-right-radius: 0px;
+	border-top-right-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	-webkit-border-top-left-radius: 0px;
+	border-top-left-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	-webkit-border-bottom-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+#stacks_in_122_page7 #content {
+	font-size: 12px;
+	line-height: 16px;
+}
+#stacks_in_122_page7 {
+	margin: 2px 2px 2px 2px;
+	padding: 5px 5px 5px 5px;
+}
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' fsfooter.css Style Sheet
+Created: 25, October, 2010
+Last Modified: 26, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010-2011 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+#stacks_in_126_page7 {
+	-moz-border-radius-topright: 0px;
+	-webkit-border-top-right-radius: 0px;
+	border-top-right-radius: 0px;
+	-moz-border-radius-topleft: 0px;
+	-webkit-border-top-left-radius: 0px;
+	border-top-left-radius: 0px;
+	-moz-border-radius-bottomright: 0px;
+	-webkit-border-bottom-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	-moz-border-radius-bottomleft: 0px;
+	-webkit-border-bottom-left-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+#stacks_in_126_page7 #footer {
+	font-size: 11px;
+	line-height: 16px;
+	color: #3B4B58;
+}
+
+#stacks_in_126_page7 #footer p {
+	color: #3B4B58;
+}
+
+#footer a:link, #footer a:visited, #footer a:active {
+	color: #CD180D;
+}
+
+#footer a:hover {
+	color: #CD180D;
+}
+#stacks_in_126_page7 {
+	margin: 2px 2px 2px 2px;
+	padding: 5px 5px 5px 5px;
+}

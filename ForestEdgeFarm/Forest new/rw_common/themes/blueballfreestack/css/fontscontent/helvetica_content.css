@@ -1,0 +1,34 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' helvetica_content.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 26, October, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body {
+	font-family: "HelveticaNeue-Normal", "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
+}
+
+blockquote, .standout {
+	font-family: "HelveticaNeue-Normal", Arial, Helvetica, Verdana, sans-serif;
+}
+
+#pageheader #slogan, #footer {
+	font-family: "HelveticaNeue-Normal", Arial, Helvetica, Verdana, sans-serif;
+}
+
+h4, h5 {
+	font-family: "HelveticaNeue-Normal", "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer #sidebarcontent h5 {
+	font-family: "HelveticaNeue-Normal", "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
+}
+

@@ -1,0 +1,33 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' palatino_content.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 126, October, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+}
+
+blockquote, .standout {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+}
+
+#pageheader #slogan, #footer {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+}
+
+h4, h5 {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer #sidebarcontent h5 {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+}

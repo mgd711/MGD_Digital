@@ -1,0 +1,30 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' yanone_headline.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 14, October, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+h1, h2, h3, h4 {
+	font-family: "YanoneKaffeesatzRegular", "HelveticaNeue", Helvetica, Arial, Verdana, sans-serif;
+	font-weight: normal;
+}
+
+#pageheader h1, 
+.blog-entry-title, 
+.blog-archive-month, 
+.filesharing-item-title, 
+.album-title, 
+.photo-title, 
+.movie-page-title, 
+.movie-title {
+	font-family: "YanoneKaffeesatzRegular", "HelveticaNeue", Helvetica, Arial, Verdana, sans-serif;
+	font-weight: normal;
+}
+

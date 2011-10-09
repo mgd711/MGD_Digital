@@ -1,0 +1,26 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' width1060.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 3, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+#pagecontainer {
+	width: 1060px;
+	margin: 0px auto;
+	overflow:  visible;
+}
+
+#pagewrapper {
+	width: 1060px;
+	margin: 0px auto;
+}
+
+
+

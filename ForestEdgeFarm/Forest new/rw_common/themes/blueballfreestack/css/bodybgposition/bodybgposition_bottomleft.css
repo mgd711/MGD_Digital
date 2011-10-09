@@ -1,0 +1,16 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' bodybgposition_bottomleft.css Style Sheet
+Created: 8, December, 2010
+Last Modified: 24, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+body, html {
+	background-position: bottom left;
+}

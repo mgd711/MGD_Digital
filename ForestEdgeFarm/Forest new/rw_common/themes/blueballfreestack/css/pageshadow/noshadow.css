@@ -1,0 +1,22 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' noshadow.css Style Sheet
+Created: 2, November, 2010
+Last Modified: 3, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+#pagewrapper {
+	-moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+	-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+	box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+
+
+
+

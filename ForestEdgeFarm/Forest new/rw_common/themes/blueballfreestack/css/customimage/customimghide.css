@@ -1,0 +1,17 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' customimghide.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 14, October, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+#pagewrapper #pageheader {
+	background-image: none;
+}
+

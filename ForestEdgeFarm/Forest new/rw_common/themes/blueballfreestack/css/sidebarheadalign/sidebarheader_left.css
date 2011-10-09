@@ -1,0 +1,23 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' sidebarheader_left.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 14, October, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+#sidebar .sideHeader {
+	text-align: left;
+}
+
+#sidebar h5 {
+	text-align: left;
+}
+
+
+

@@ -1,0 +1,74 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' colourtag.css Style Sheet
+Created: 25, October, 2010
+Last Modified: 26, January, 2011
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+body, html {
+	color: #151515;
+	background-color: #008040;
+}
+
+a:link, a:visited, a:active,
+.blog-entry-comments a,
+.rw-sitemap ul li a,
+.rw-sitemap ul li ul li a {
+	color: #CD180D;
+}
+
+a:hover,
+.blog-entry-comments a:hover,
+.filesharing-item-title a:hover,
+.blog-entry-title a:hover,
+.rw-sitemap ul li a:hover,
+.rw-sitemap ul li ul li a:hover {
+	color: #CD180D;
+}
+
+h1, h2, h3,
+.blog-entry-title, .blog-entry-title a, .blog-archive-month,
+.filesharing-item-title, .filesharing-item-title a:link, .filesharing-item-title a:visited, .filesharing-item-title a:active,
+.album-title, .photo-title, blockquote, .standout {
+	color: #CD180D;
+}
+
+h4, h5 {
+	color: #3F3F3F;
+}
+
+blockquote, .standout {
+	border-color: #151515;
+}
+
+#pagewrapper {
+	background-color: #FFFFFF;
+}
+
+#content {
+	color: #151515;
+}
+
+ul.blog-tag-cloud {
+	color: #3F3F3F;
+}
+
+.photo-links a:link, .photo-links a:visited, .photo-links a:active {
+	color: #CD180D;
+}
+
+.photo-links a:hover {
+	color: #CD180D;
+}
+
+/* Movie Page Titles */
+
+.movie-page-title, .movie-title {
+	color: #CD180D;
+}
+

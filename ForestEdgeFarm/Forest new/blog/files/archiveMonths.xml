@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>count</key>
+		<integer>1</integer>
+		<key>month</key>
+		<string>2011-07-01T00:00:00.000+00.00</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>1</integer>
+		<key>month</key>
+		<string>2010-09-01T00:00:00.000+00.00</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>2</integer>
+		<key>month</key>
+		<string>2010-02-01T00:00:00.000+00.00</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>1</integer>
+		<key>month</key>
+		<string>2009-09-01T00:00:00.000+00.00</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>1</integer>
+		<key>month</key>
+		<string>2009-08-01T00:00:00.000+00.00</string>
+	</dict>
+	<dict>
+		<key>count</key>
+		<integer>1</integer>
+		<key>month</key>
+		<string>2009-07-01T00:00:00.000+00.00</string>
+	</dict>
+</array>
+</plist>

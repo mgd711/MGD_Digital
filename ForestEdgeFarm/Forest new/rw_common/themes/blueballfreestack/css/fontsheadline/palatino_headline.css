@@ -1,0 +1,32 @@
+/*
+-------------------------------------------
+File: 'Blueball FreeStacks' palatino_headline.css Style Sheet
+Created: 14, October, 2010
+Last Modified: 15, November, 2010
+Author: Charlie Lockhart, Blueball Design
+www.blueballdesign.com
+Copyright 2010 Charlie Lockhart/Blueball Design USA
+All Rights Reserved
+-------------------------------------------
+*/
+
+
+h1, h2, h3, h4, h5 {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+	font-weight: bold;
+}
+
+#title, #sidebar .sideHeader,
+#sidebar h5,
+.tumblr_post,
+.blog-entry-title, 
+.blog-archive-month, 
+.filesharing-item-title, 
+.album-title, 
+.photo-title, 
+.movie-page-title, 
+.movie-title {
+	font-family: Palatino, "Palatino Linotype", "Hoefler Text", Times, "Times New Roman", serif;
+	font-weight: bold;
+}
+
